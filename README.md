@@ -10,7 +10,7 @@ Simulated Brute Force Authentication Attempt Resulting in Account Lockout
 - Windows Event Logs collected via Universal Forwarder
 
 ## Objective
-Simulate and investigate repeated failed authentication attempts within a Windows Active Directory environment using Splunk Enterprise as a SIEM. Document detection, investigation, and remediation workflow in a SOC-style format.
+Simulate and investigate repeated failed authentication attempts within a Windows Active Directory environment using Splunk Enterprise as a SIEM. Document detection, investigation, and remediation workflow.
 
 ## Enviroment
 - Domain Controller: Windows Server 2019 (DC01)
