@@ -31,8 +31,8 @@ Windows Security Event Logs ingested into Splunk.
 - Event documented and monitoring rules validated.  
 
 ## Screenshots / Evidence
-1. Failed logons (4625): ![Failed Logons](01_failed_logons_4625.png)  
-2. Account lockout (4740): ![Account Lockout](02_account_lockout_4740.png)  
+1. Failed logons (4625): ![Failed Logons](01_failed_logons_4625.png)
+2. Account lockout (4740): ![Account Lockout](02_account_lockout_4740.png)
 3. Correlated events stats: ![Event Correlation](03_event_correlation_stats.png)
 
 ## Lessons Learned
